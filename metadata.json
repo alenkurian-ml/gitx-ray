@@ -1,0 +1,6 @@
+{
+  "name": "GitHub X-Ray",
+  "description": "Inspect real public GitHub profiles and repositories with deep signal extraction, Gemini-powered engineering analysis, and step-by-step rescue plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
